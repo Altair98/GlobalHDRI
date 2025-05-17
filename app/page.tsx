@@ -81,7 +81,7 @@ export default function Home() {
           <div className="features-item-triple">
             <div className="features-box-triple">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=K0-9Ycl6GA0" className="" target="_blank">
+                <a href="https://www.youtube.com/watch?v=7jktVPifFWM" className="" target="_blank">
                   <img src="include/images/features/features-bg-6.png" alt=""/>
                 </a>
               </div>
@@ -90,7 +90,7 @@ export default function Home() {
           <div className="features-item-triple">
             <div className="features-box-triple">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=33AI5ksH16E" className="" target="_blank">
+                <a href="https://www.youtube.com/watch?v=krqzcxlDyCs" className="" target="_blank">
                   <img src="include/images/features/features-bg-7.png" alt=""/>
                 </a>
               </div>
@@ -431,7 +431,7 @@ export default function Home() {
             </div>
           </div>
           <div className="features-item fi-full">
-            <div className="features-box-thick">
+            <div className="features-box-thick2">
               <div className="features-box-bg">
                 <img src="include/images/features/features-bg-34.jpg" alt=""/>
               </div>
