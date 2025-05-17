@@ -339,7 +339,7 @@ export default function Home() {
               <div className="features-box-text-thin">
                 <p>
                   <span className="text-for-thin1">
-                    <strong>Unmatched value</strong> for a complete HDRI solution <br></br><br></br>
+                    <strong>Unmatched value</strong> for a complete HDRI solution <br></br>
                   </span>
                   <span className="text-for-thin2">
                     Less than <strong>0.08$</strong> per HDRI + <strong>GlobalHDRI</strong> Addon
