@@ -66,6 +66,7 @@
   .features-box-cuadrada {min-height: 430px;position: relative;border-radius: 22px;overflow: hidden;padding: 24px;}
   .features-box-alt {min-height: 400px;position: relative;border-radius: 22px;overflow: hidden;padding: 24px;}
   .features-box-tiguere {min-height: 450px;position: relative;border-radius: 22px;overflow: hidden;padding: 24px;margin-bottom: 1px;}
+  .features-box-tiguere- {min-height: 400px;position: relative;border-radius: 22px;overflow: hidden;padding: 24px;margin-bottom: 1px;}
   .features-box-tabla {min-height: 1100px;position: relative;border-radius: 22px;overflow: hidden;padding: 24px;margin-bottom: 30px;}
   .features-box-thick {min-height: 500px;position: relative;border-radius: 22px;overflow: hidden;padding: 24px;margin-bottom: 1px;}
   .features-box-thin- {min-height: 200px;position: relative;border-radius: 22px;overflow: hidden;padding: 24px;margin-bottom: 30px;margin-bottom: 1px;}
@@ -81,7 +82,7 @@
   .features-box-bg>img {width: 100%;height: 100%;object-fit: inherit;}
   .features-box-text {position: relative;color: #dfdfdf;max-width: 250px;line-height: 1.28; font-size: 20px; text-align: center; margin: auto;}
   .features-box-text-alt {position: relative;color: #dfdfdf;max-width: 500px;line-height: 1.28; font-size: 20px; text-align: left;}
-  .features-box-text-thin {position: relative;color: #dfdfdf;max-width: 800px;line-height: 1.28; font-size: 20px; text-align: center; margin: auto;padding-top: 50px;}
+  .features-box-text-thin {position: relative;color: #dfdfdf;max-width: 800px;line-height: 1.28; font-size: 20px; text-align: center; margin: auto;padding-top: 65px;}
   .features-box-text p>span {color: var(--white);} 
   .features-item.fi-full {width: 100%;}
   .features-item.fi-full .features-box-text {max-width: 430px;}
@@ -91,15 +92,15 @@
   .footer-bg {position: absolute;top: 0;left: 0;width: 100%;height: 100%;background-color: #dedede;}
   .icons {display: flex;}
   .blendify-icon {position: relative;display: flex; margin-top: 180px;}
-  .blendify-icon p {max-width: 200px; font-size: 20px; padding: 20px;}
+  .blendify-icon p {max-width: 200px; font-size: 20px; padding: 20px;min-width: 200px;}
   .blendify-icon img {max-width: 80px;}
-  .other-icons {position: relative;display: flex;margin-top: 180px;margin-left: 420px;}
+  .other-icons {position: relative;display: flex;margin-top: 180px;margin-left: 350px;}
   .yt-icon {max-width: 50px;margin: 6px;padding-top: 5px;}
   .x-icon {max-width: 37px;margin: 6px;padding-top: 5px;}
   .dc-icon {max-width: 45px;margin: 6px;}
   .bg-text {position: relative;display: flex;}
-  .text {font-size: 20px; line-height: 1.5; margin-top: 20px;}
-  .smile {max-width: 75px; margin-left: 290px;}
+  .text {font-size: 20px; line-height: 1.5; margin-top: 20px;min-width: 500px;}
+  .smile {max-width: 75px; margin-left: 200px;}
   .credits-text {position: absolute;color: #b8b8b8;line-height: 1.28; font-size: 16px; text-align: left;bottom: 15px;}
   .credits-text2 {position: absolute;color: #b8b8b8;line-height: 1.28; font-size: 16px; text-align: right;bottom: 15px;right: 15px;}
   /* ------------------------------------------------------------ 
