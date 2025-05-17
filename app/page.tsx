@@ -234,7 +234,7 @@ export default function Home() {
             </div>
           </div>
           <div className="features-item fi-full">
-            <div className="features-box-tiguere">
+            <div className="features-box-tiguere-">
               <div className="features-box-bg">
                 <img src="include/images/features/features-bg-18.jpg" alt=""/>
               </div>
